@@ -1,0 +1,11 @@
+// font-face Roboto that is like Android font
+@font-face {
+    font-family: 'roboto';
+    src: url('../fonts/roboto.eot');
+    src: url('../fonts/roboto.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/roboto.woff') format('woff'),
+         url('../fonts/roboto.ttf') format('truetype'),
+         url('../fonts/roboto.svg#roboto') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
